@@ -1,11 +1,11 @@
 <script>
         var products = [
-        { id: 1, name: "SERUM", price: 3,150.00 },
-        { id: 2, name: "SLEEPING FACIAL", price: 3,150.00 },
-        { id: 3, name: "EYE SERUM", price: 3,150.00 },
-        { id: 4, name: "CLEANSING OIL", price: 695.00 },
-        { id: 5, name: "FACIAL MASK", price: 895.00 },
-        { id: 6, name: "FOUNDATION", price: 1,200.00 },
+        { id: 1, name: "SKINCARE BEAUTY BAR SYRUM", price: 3,150.00 },
+        { id: 2, name: "SKINCARE BEATY BAR EYE SERUM", price: 3,150.00 },
+        { id: 3, name: "SKINCARE BEAUTY BAR FACIAL MASK", price: 895.00 },
+        { id: 4, name: "SKINCARE BEAUTY BAR FOUNDATION", price: 1,200.00 },
+        { id: 5, name: "SKINCARE BEAUTY BAR CLEANSING OIL", price: 695.00 },
+        { id: 6, name: "SKINCARE BEAUTY BAR SLEEPING FACIAL MASK", price: 895.00 },
     ];
     
     
